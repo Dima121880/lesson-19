@@ -1,0 +1,12 @@
+button {
+  padding: 12px 70px;
+  /* cursor: pointer; */
+}
+
+.products-2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  background-color: darkcyan;
+  padding: 20px;
+}
