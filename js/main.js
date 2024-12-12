@@ -210,3 +210,11 @@ function newarrfunction() {
   para.appendChild(node);
   document.getElementById("text").appendChild(para);
 }
+function newfunction() {
+  const para = document.createElement("p");
+  const node = document.createTextNode(
+    "მაღაზია GAME-CLUB გთავაზობთ:PS4 (PlayStation 4), 500gb 449ლარი,(400 თამაშიანი აქაუნთი 15ლარი).დამატებითი ჯოისტიკი 59ლარი. (1 წელი გარანტია) მოყვება ერთ წლიანი გარანტია მოქმეედებს უფასო მიტანის სერვიზი. ვაგზავნით რეგიონებშიც"
+  );
+  para.appendChild(node);
+  document.getElementById("p").appendChild(para);
+}

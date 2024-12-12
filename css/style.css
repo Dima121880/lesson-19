@@ -10,3 +10,11 @@ button {
   background-color: darkcyan;
   padding: 20px;
 }
+
+.p {
+  max-width: 510px;
+}
+div {
+  border: 1px;
+  color: black;
+}
